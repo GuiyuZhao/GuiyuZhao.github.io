@@ -17,7 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a currently third year master from National Key Laboratory of Autonomous Intelligent Unmanned, Beijing Institute of Technology. I am advised by Prof. Ma Hongbin. Before this, I received my Bachelor’s Degree, majoring in Automation, from China University of Geosciences (Wuhan) in June 2022, under the supervision of Prof. Li Danyun.
+<!--I'm a first-year PhD in [Institute of Automation, Chinese Academy of Sciences](https://ia.cas.cn/)).  -->
+I'm a currently third year master from [National Key Laboratory of Autonomous Intelligent Unmanned](https://csicdgz.bit.edu.cn/), [Beijing Institute of Technology](https://www.bit.edu.cn/). 
+I am advised by [Prof. Ma Hongbin](http://www.we-learn.net.cn/mathmhb/).
+Before this, I received my Bachelor’s Degree, majoring in Automation, from China University of Geosciences (Wuhan) in June 2022, under the supervision of [Prof. Li Danyun](https://grzy.cug.edu.cn/lidanyun/). 
 
 My research focuses on 3D Computer Vision, Embodied AI, and Robotics. Currently, I specialize in Point Cloud Registration, Visual-Language-Action Model.  If you are interested in my research, feel free to contact me at <zhaoguiyu2025@ia.ac.cn>.
 <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
