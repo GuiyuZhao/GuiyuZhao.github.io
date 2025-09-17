@@ -54,7 +54,7 @@ Progressive Correspondence Regenerator for Robust 3D Registration
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/Cross-PCR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 "Cross-PCR: A Robust Cross-Source Point Cloud Registration Framework
@@ -68,7 +68,7 @@ Progressive Correspondence Regenerator for Robust 3D Registration
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/SGOR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 SGOR: Outlier Removal by Leveraging Semantic and Geometric Information for Robust Point Cloud Registration
@@ -82,7 +82,7 @@ SGOR: Outlier Removal by Leveraging Semantic and Geometric Information for Robus
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/SphereNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 SphereNet: Learning a Noise-Robust and General Descriptor for Point Cloud Registration
@@ -96,7 +96,7 @@ SphereNet: Learning a Noise-Robust and General Descriptor for Point Cloud Regist
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/GOR-PCR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 GOR-PCR: Graph-based Outlier Removal with global-to-local consistency for Point Cloud Registration
