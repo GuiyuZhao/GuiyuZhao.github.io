@@ -130,7 +130,7 @@ Cross-source Point Cloud Registration via Voxel Representation and Hierarchical 
 -->
 
 # 🎖 Honors and Awards
-## Scholarships
+## 💬 Scholarships
 - *2025-05*: [Xu Teli Scholarship](https://xtlfund.bit.edu.cn/) (highest scholarship in BIT)
 - *2024-10*: Graduate Academic Scholarship (BIT) - Special Class
 - *2024-10*: National Scholarship for Master
@@ -140,7 +140,7 @@ Cross-source Point Cloud Registration via Voxel Representation and Hierarchical 
 - *2021-10*: Academician Scholarship
 - *2020-10*: National Scholarship for Bachelor
 
-## Honors
+## 💬 Honors
 - *2025-06*: Beijing Outstanding Graduates
 - *2024-12*: Outstanding graduate student, Beijing Association of Automation
 - *2024-10*: Young Researcher Award, ISCIIA-ITCA 2024
@@ -154,7 +154,7 @@ Cross-source Point Cloud Registration via Voxel Representation and Hierarchical 
 - *2021-05*: CUG Excellent Member of the Communist Youth League
 - *2020-05*: CUG Excellent Cadres of the Communist Youth League
 
-## Competitions
+## 💬 Competitions
 - *2023-08*: **Champion** of 2023 International Autonomous Intelligent Robot Competition
 - *2022-11*: **Second Prize** of National Artificial Intelligence Robot Competition
 - *2022-10*: **Second Prize** of China Graduate Mathematical Contest in Modeling
