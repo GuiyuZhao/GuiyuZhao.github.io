@@ -43,15 +43,41 @@ My research focuses on 3D Computer Vision, Embodied AI, and Robotics. Currently,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+Progressive Correspondence Regenerator for Robust 3D Registration
+
+**Guiyu Zhao<sup>*</sup>**, Sheng Ao<sup>*</sup>, Ye Zhang, Kai Xu, Yulan Guo<sup>&dagger;</sup>
+
+<span style="color:red">**CVPR 2025 (CCF-A)**</span>
+
+[[Paper]](https://arxiv.org/abs/2412.18873), [[Code]](https://github.com/GuiyuZhao/Regor)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+"Cross-PCR: A Robust Cross-Source Point Cloud Registration Framework
+
+**Guiyu Zhao**, Zhentao Guo, Hongbin Ma<sup>&dagger;</sup>
+
+<span style="color:red">**AAAI 2025 (CCF-A)**</span>
+
+[[Paper]](https://arxiv.org/abs/2412.18873), [[Code]](https://github.com/GuiyuZhao/Cross-PCR)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 SGOR: Outlier Removal by Leveraging Semantic and Geometric Information for Robust Point Cloud Registration
 
 **Guiyu Zhao**, Zhentao Guo, Hongbin Ma<sup>&dagger;</sup>
 
-<span style="color:red">**IROS 2025 (CCF-B)**</span>
+<span style="color:red">**IROS 2024 (CCF-B, Oral)**</span>
 
 [[Paper]](https://arxiv.org/abs/2407.06297), [[Code]](https://github.com/GuiyuZhao/SGOR)
-
-
 </div>
 </div>
 
@@ -59,12 +85,13 @@ SGOR: Outlier Removal by Leveraging Semantic and Geometric Information for Robus
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+SphereNet: Learning a Noise-Robust and General Descriptor for Point Cloud Registration
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Guiyu Zhao**, Zhentao Guo, Xin Wang, Hongbin Ma<sup>&dagger;</sup>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<span style="color:red">**IEEE TGRS (CCF-B, IF=8.6)**</span>
+
+[[Paper]](https://ieeexplore.ieee.org/document/10356130), [[Code]](https://github.com/GuiyuZhao/SphereNet)
 </div>
 </div>
 
@@ -72,14 +99,30 @@ SGOR: Outlier Removal by Leveraging Semantic and Geometric Information for Robus
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+GOR-PCR: Graph-based Outlier Removal with global-to-local consistency for Point Cloud Registration
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Guiyu Zhao**, Zhentao Guo, Hongbin Ma<sup>&dagger;</sup>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<span style="color:red">**IEEE TIM (IF=5.9)**</span>
+
+[[Paper]](https://ieeexplore.ieee.org/document/10752621), [[Code]](https://github.com/GuiyuZhao/GOR-PCR)
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Cross-source Point Cloud Registration via Voxel Representation and Hierarchical Correspondence Fitering
+
+**Guiyu Zhao**, Zewen Du, Zhentao Guo, Hongbin Ma<sup>&dagger;</sup>
+
+<span style="color:red">**ICME (CCF-B)**</span>
+
+[[Paper]](https://arxiv.org/pdf/2403.10085), [[Code]](https://github.com/GuiyuZhao/VRHCF)
+</div>
+</div>
+
 
 
 <!--
