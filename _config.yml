@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhao Guiyu (赵桂瑜)"
-description              : "Zhao Guiyu (赵桂瑜) - homepage "
+description              : "Ph.D. student"
 repository               : "GuiyuZhao/GuiyuZhao.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhao Guiyu (赵桂瑜)"
+  name             : "Zhao Guiyu (桂瑜)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Institute of Automation, Chinese Academy of Sciences"
   location         : "Beijing, China"
