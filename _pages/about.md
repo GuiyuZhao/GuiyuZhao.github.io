@@ -43,6 +43,22 @@ My research focuses on 3D Computer Vision, Embodied AI, and Robotics. Currently,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+SGOR: Outlier Removal by Leveraging Semantic and Geometric Information for Robust Point Cloud Registration
+
+**Guiyu Zhao**, Zhentao Guo, Hongbin Ma<sup>&dagger;</sup>
+
+<span style="color:red">**IROS 2025 (CCF-B)**</span>
+
+[[Paper]](https://arxiv.org/abs/2407.06297), [[Code]](https://github.com/GuiyuZhao/SGOR)
+
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
@@ -52,7 +68,23 @@ My research focuses on 3D Computer Vision, Embodied AI, and Robotics. Currently,
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+
+<!--
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-->
 
 # 🎖 Honors and Awards
 ## Scholarships
@@ -79,7 +111,7 @@ My research focuses on 3D Computer Vision, Embodied AI, and Robotics. Currently,
 - *2021-05*: CUG Excellent Member of the Communist Youth League
 - *2020-05*: CUG Excellent Cadres of the Communist Youth League
 
-  ## Competitions
+## Competitions
 - *2023-08*: **Champion** of 2023 International Autonomous Intelligent Robot Competition
 - *2022-11*: **Second Prize** of National Artificial Intelligence Robot Competition
 - *2022-10*: **Second Prize** of China Graduate Mathematical Contest in Modeling
