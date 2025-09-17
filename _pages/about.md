@@ -40,7 +40,7 @@ My research focuses on 3D Computer Vision, Embodied AI, and Robotics. Currently,
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/Regor.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Progressive Correspondence Regenerator for Robust 3D Registration
@@ -110,7 +110,7 @@ GOR-PCR: Graph-based Outlier Removal with global-to-local consistency for Point 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/ICME.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Cross-source Point Cloud Registration via Voxel Representation and Hierarchical Correspondence Fitering
