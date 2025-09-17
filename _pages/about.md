@@ -54,7 +54,7 @@ Progressive Correspondence Regenerator for Robust 3D Registration
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/Cross-PCR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/Cross-PCR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 "Cross-PCR: A Robust Cross-Source Point Cloud Registration Framework
@@ -68,7 +68,7 @@ Progressive Correspondence Regenerator for Robust 3D Registration
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/SGOR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/SGOR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 SGOR: Outlier Removal by Leveraging Semantic and Geometric Information for Robust Point Cloud Registration
@@ -82,7 +82,7 @@ SGOR: Outlier Removal by Leveraging Semantic and Geometric Information for Robus
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/SphereNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TGRS</div><img src='images/SphereNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 SphereNet: Learning a Noise-Robust and General Descriptor for Point Cloud Registration
@@ -96,7 +96,7 @@ SphereNet: Learning a Noise-Robust and General Descriptor for Point Cloud Regist
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/GOR-PCR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM</div><img src='images/GOR-PCR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 GOR-PCR: Graph-based Outlier Removal with global-to-local consistency for Point Cloud Registration
@@ -110,14 +110,14 @@ GOR-PCR: Graph-based Outlier Removal with global-to-local consistency for Point 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/ICME.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2024</div><img src='images/ICME.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Cross-source Point Cloud Registration via Voxel Representation and Hierarchical Correspondence Fitering
 
 **Guiyu Zhao**, Zewen Du, Zhentao Guo, Hongbin Ma<sup>&dagger;</sup>
 
-<span style="color:red">**ICME (CCF-B)**</span>
+<span style="color:red">**ICME 2024 (CCF-B)**</span>
 
 [[Paper]](https://arxiv.org/pdf/2403.10085), [[Code]](https://github.com/GuiyuZhao/VRHCF)
 </div>
