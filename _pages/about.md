@@ -27,8 +27,16 @@ My research focuses on 3D Computer Vision, Embodied AI, and Robotics. Currently,
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- * 2025-05*: I won the [Xu Teli Scholarship](https://xtlfund.bit.edu.cn/) (highest scholarship in BIT, Top 5)! 🎉🎉🎉
+- * 2025-03*: Our Regor is accepted by CVPR 2025! Many thanks to Prof. Guo and Prof. Ao.🎉🎉🎉
+- * 2024-11*: Our Cross-PCR is accepted by AAAI 2025! 🎉🎉🎉
+- * 2024-11*: Our GOR-PCR is accepted by IEEE TIM! 🎉🎉🎉
+- * 2024-10*: I won the National Scholarship for masters! 🎉🎉🎉
+- * 2024-08*: Our LDA-AQU accepted by ACM MM 2024! 🎉🎉🎉
+- * 2024-08*: Our SGOR is accepted by IROS 2024! 🎉🎉🎉
+- * 2024-05*: Our VRHCF is accepted by ICME 2024! 🎉🎉🎉
+- * 2023-12*: Our SphereNet is accepted by IEEE TGRS 2024! 🎉🎉🎉
+- * 2020-09*: I won the National Scholarship for undergraduate students! 🎉🎉🎉
 
 # 📝 Publications 
 
