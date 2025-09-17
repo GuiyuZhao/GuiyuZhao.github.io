@@ -65,6 +65,28 @@ My research focuses on 3D Computer Vision, Embodied AI, and Robotics. Currently,
 - *2021-10*: Academician Scholarship
 - *2020-10*: National Scholarship for Bachelor
 
+## Honors
+- *2025-06*: Beijing Outstanding Graduates
+- *2024-12*: Outstanding graduate student, Beijing Association of Automation
+- *2024-10*: Young Researcher Award, ISCIIA-ITCA 2024
+- *2024-09*: BIT Excellent Student Model
+- *2024-09*: BIT Excellent Student Model
+- *2023-09*: BIT Excellent Student Model
+- *2022-06*: CUG Outstanding Graduates
+- *2022-06*: CUG Excellent Graduation Thesis
+- *2022-05*: CUG Excellent Communist Party member
+- *2021,2020-09*: CUG Excellent Student Model
+- *2021-05*: CUG Excellent Member of the Communist Youth League
+- *2020-05*: CUG Excellent Cadres of the Communist Youth League
+
+  ## Competitions
+- *2023-08*: **Champion** of 2023 International Autonomous Intelligent Robot Competition
+- *2022-11*: **Second Prize** of National Artificial Intelligence Robot Competition
+- *2022-10*: **Second Prize** of China Graduate Mathematical Contest in Modeling
+- *2022-08*: **First Prize** of 2022 International Autonomous Intelligent Robot Competition
+- *2021-05*: **First prize (2nd)** of Huazhong Mathematical Contest in Modeling
+- *2020-05*: **Second Prize** of Hubei Mathematics Competition.
+  
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
