@@ -167,6 +167,12 @@ Cross-source Point Cloud Registration via Voxel Representation and Hierarchical 
 - M.S. in Automation, Beijing Institute of Technology, 2022
 - B.S. in Automation, China University of Geosciences, 2018
 
+# 💻 Academic Services
+- **Conference Reviewer**: CVPR-25, NeurIPS-24/25, ICML-25, ICLR-25/26, AISTATS-25
+- **Journal Reviewer**: TGRS, TIM, JSTARS, CAG, JACIII
+ 
+
+  
 <!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
