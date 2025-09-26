@@ -18,9 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <!--I'm a first-year PhD in [Institute of Automation, Chinese Academy of Sciences](https://ia.cas.cn/)).  -->
-I'm a currently third year master from [National Key Laboratory of Autonomous Intelligent Unmanned](https://csicdgz.bit.edu.cn/), [Beijing Institute of Technology](https://www.bit.edu.cn/). 
-I am advised by [Prof. Ma Hongbin](http://www.we-learn.net.cn/mathmhb/).
-Before this, I received my Bachelor’s Degree, majoring in Automation, from China University of Geosciences (Wuhan) in June 2022, under the supervision of [Prof. Li Danyun](https://grzy.cug.edu.cn/lidanyun/). 
+I have graduated with a master's degree from [National Key Laboratory of Autonomous Intelligent Unmanned](https://csicdgz.bit.edu.cn/), [Beijing Institute of Technology](https://www.bit.edu.cn/), advised by [Prof. Ma Hongbin](http://www.we-learn.net.cn/mathmhb/).
+Before this, I received my Bachelor’s degree, majoring in Automation, from China University of Geosciences (Wuhan) in June 2022, under the supervision of [Prof. Li Danyun](https://grzy.cug.edu.cn/lidanyun/). 
 
 My research focuses on 3D Computer Vision, Embodied AI, and Robotics. Currently, I specialize in Point Cloud Registration, Visual-Language-Action Model.  If you are interested in my research, feel free to contact me at <zhaoguiyu2025@ia.ac.cn>.
 <a href='https://scholar.google.com/citations?user=PI1U14MAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
@@ -40,6 +39,20 @@ My research focuses on 3D Computer Vision, Embodied AI, and Robotics. Currently,
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/Cross-PCR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+"Cross-PCR: A Robust Cross-Source Point Cloud Registration Framework
+
+**Guiyu Zhao**, Zhentao Guo, Hongbin Ma<sup>&dagger;</sup>
+
+<span style="color:red">**AAAI 2025 (CCF-A)**</span>
+
+[[Paper]](https://arxiv.org/abs/2412.18873), [[Code]](https://github.com/GuiyuZhao/Cross-PCR)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/Regor.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -53,19 +66,6 @@ Progressive Correspondence Regenerator for Robust 3D Registration
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/Cross-PCR.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-"Cross-PCR: A Robust Cross-Source Point Cloud Registration Framework
-
-**Guiyu Zhao**, Zhentao Guo, Hongbin Ma<sup>&dagger;</sup>
-
-<span style="color:red">**AAAI 2025 (CCF-A)**</span>
-
-[[Paper]](https://arxiv.org/abs/2412.18873), [[Code]](https://github.com/GuiyuZhao/Cross-PCR)
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/SGOR.png' alt="sym" width="100%"></div></div>
@@ -168,7 +168,7 @@ Cross-source Point Cloud Registration via Voxel Representation and Hierarchical 
 - B.S. in Automation, China University of Geosciences, 2018
 
 # 💻 Academic Services
-- **Conference Reviewer**: CVPR-25, NeurIPS-24/25, ICML-25, ICLR-25/26, AISTATS-25
+- **Conference Reviewer**: CVPR-25/26, NeurIPS-24/25, ICML-25, ICLR-25/26, AISTATS-25
 - **Journal Reviewer**: TGRS, TIM, JSTARS, CAG, JACIII
  
 
