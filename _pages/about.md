@@ -170,7 +170,9 @@ Cross-source Point Cloud Registration via Voxel Representation and Hierarchical 
 # 💻 Academic Services
 - **Conference Reviewer**: CVPR-25/26, NeurIPS-24/25, ICML-25, ICLR-25/26, AISTATS-25
 - **Journal Reviewer**: TGRS, TIM, JSTARS, CAG, JACIII
- 
+
+
+ ![访客计数](https://visitor-badge.laobi.icu/badge?page_id=GuiyuZhao.GuiyuZhao.github.io)
 
   
 <!--
