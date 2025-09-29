@@ -172,20 +172,19 @@ Cross-source Point Cloud Registration via Voxel Representation and Hierarchical 
 - **Journal Reviewer**: TGRS, TIM, JSTARS, CAG, JACIII
 
 
+
+
+
+
+
 <div>
-<h3>🌍 访问者全球分布 
-    <span style="font-size: 0.6em; color: #666; margin-left: 15px;">
-        总访问量: 
-        <span style="color: #667eea; font-weight: bold;">
-            ![总访问](https://visitor-badge.laobi.icu/badge?page_id=your_username.your_repo)
-        </span>
-    </span>
-</h3>
+<h3>🌍 访问者全球分布   总访问量:![总访问](https://visitor-badge.laobi.icu/badge?page_id=GuiyuZhao.GuiyuZhao.github.io)</h3>
 <div style="width: 100%; max-width: 500px; height: 400px; margin: 0 auto;">
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=xpJojksxRTD_Er5bGxP1_7vcfvYFUT_qZbmS91aPK4c"></script>
 </div>
-<p><small>实时显示全球访问者位置</small></p>
 </div>
+
+
 
   
 <!--
