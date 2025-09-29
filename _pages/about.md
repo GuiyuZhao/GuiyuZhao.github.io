@@ -172,7 +172,7 @@ Cross-source Point Cloud Registration via Voxel Representation and Hierarchical 
 - **Journal Reviewer**: TGRS, TIM, JSTARS, CAG, JACIII
 
 
- ![访客计数](https://visitor-badge.laobi.icu/badge?page_id=GuiyuZhao.GuiyuZhao.github.io)
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=xpJojksxRTD_Er5bGxP1_7vcfvYFUT_qZbmS91aPK4c"></script>
 
   
 <!--
