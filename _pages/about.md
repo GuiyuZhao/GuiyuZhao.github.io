@@ -163,7 +163,7 @@ Cross-source Point Cloud Registration via Voxel Representation and Hierarchical 
 - *2020-05*: **Second Prize** of Hubei Mathematics Competition.
   
 # 📖 Educations
-- Ph.D in Computer Science, XXX University, 2025 (expected)
+- Ph.D in Computer Science, University of Chinese Academy of Sciences, 2025
 - M.S. in Automation, Beijing Institute of Technology, 2022
 - B.S. in Automation, China University of Geosciences, 2018
 
