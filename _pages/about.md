@@ -21,7 +21,11 @@ redirect_from:
 I have graduated with a master's degree from [National Key Laboratory of Autonomous Intelligent Unmanned](https://csicdgz.bit.edu.cn/), [Beijing Institute of Technology](https://www.bit.edu.cn/), advised by [Prof. Ma Hongbin](http://www.we-learn.net.cn/mathmhb/).
 Before this, I received my Bachelor’s degree, majoring in Automation, from China University of Geosciences (Wuhan) in June 2022, under the supervision of [Prof. Li Danyun](https://grzy.cug.edu.cn/lidanyun/). 
 
-My research focuses on 3D Computer Vision, Embodied AI, and Robotics. Currently, I specialize in Point Cloud Registration, Visual-Language-Action Model.  If you are interested in my research, feel free to contact me at <zhaoguiyu2025@ia.ac.cn>.
+My research focuses on 3D Computer Vision, Embodied AI, and Robotics. Currently, I specialize in Point Cloud Registration, Visual-Language-Action Model.  
+My hobbies include basketball, Valorant, and painting. I am a fan of professional players Clearlove Ming Kai and Kyrie Irving.
+If you are interested in my research and want to make friends with me, feel free to contact me at <zhaoguiyu2025@ia.ac.cn>.
+
+
 <a href='https://scholar.google.com/citations?user=PI1U14MAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
